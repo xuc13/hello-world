@@ -1,2 +1,2 @@
 # hello-world
-uniConSig development
+this is for the development of uniConSig algorithm, together with CSEA
